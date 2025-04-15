@@ -10,7 +10,7 @@
     <img src="https://global.cornell.edu/sites/default/files/styles/homepage_banner/public/2021-08/AdobeStock_283024784_f.jpg?h=df51affa&itok=1GAXdnae" alt="Global World">
     <p> The world is at a crossroads in terms of politics! We have a businessman and showman running the United States of America, with an engineer from South Africa alongside him. The United Kingdom is no longer in the EU and is on the outside looking in due to Brexit a few years ago. And Russia has sent a message to the whole world that the Soviet Union may come back!</p>
    <h2> Donald Trump </h2>
-   <p>An ex-businessman called Donald Trump has got into the White House for his second term. Will he have learnt from his previous term? Or will it be a similar outcome to his first term?</p>
+   <p>An ex-businessman called Donald Trump has got into the White House for his second term. Will he have learnt from his previous term? Or will it be a similar outcome to his first term? To find out more about the tariffs that he has set, please <a href= "https://peckham-daz-project-webpage.webflow.io/tariffs">click here</a>.</p>
    <h3> Elon Musk </h3>
    <p> What is a South African doing helping out Americans? Find out more  <a href= "https://www.bbc.co.uk/news/articles/cpqd4vw0ejeo">here</a>.
    </p>
